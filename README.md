@@ -14,6 +14,7 @@ Hoje a Comunidade de Práticas está com o Drupal 7 e precisamos de alguns recur
 - Usar Git e ter conta no Github
 - **Gostar de trabalhar com Javascript**
 - Ser proativo.
+- É necessário ter nível superior, mesmo que não seja na área de ciência da computação.
   
 
 ##Diferenciais:
