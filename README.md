@@ -7,7 +7,7 @@ A Comunidade de Práticas é um projeto que visa criar um ambiente de interaçã
 
 Os projetos serão de código livre.
 
-Hoje a Comunidade de Práticas está com o Drupal 7 e precisamos de alguns recursos como um messenger e alterar a estrutura para um aplicativo.
+Hoje a Comunidade de Práticas está com o Drupal 7 e precisamos de alguns recursos como um messenger e alterar a estrutura para um aplicativo usando node.js e ember.js
 
 ##Requisitos
 - Conhecer Javascript e node.js
