@@ -1,4 +1,4 @@
-Vaga de desenvolvedor Javascript para a Comunidade de Práticas
+Vaga de desenvolvedor na Comunidade de Práticas
 ===================
 
 O projeto Comunidade de Práticas está procurando um desenvolvedor Javascript para trabalhar com projetos em node.js e ember.js
