@@ -27,10 +27,10 @@ Hoje a Comunidade de Práticas está com o Drupal 7 e precisamos de alguns recur
 - No seu fork, adicione o seu currículo com o formato [markdown](http://en.wikipedia.org/wiki/Markdown) ( exemplo: eu.md );
 - Faça um pull request.
 
-- Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Encaminhe o seu CV especificando a vaga para contato@atencaobasica.org.br 
+- Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Encaminhe o seu CV especificando a vaga para alberto@atencaobasica.org.br 
 - Sinta-se a vontade para incluir QUALQUER coisa que você acredite que vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter, facebook, sites online, outros trabalhos, etc).
 
-***Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo, logo se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar por email.***
+***Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo, logo se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar por email.***con
 
 ***Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento simplesmente porque dá dinheiro e realmente não está nessa por amor a profissão, por favor procure outra organização. É essencial que os candidatos que mandarem currículo sejam apaixonados por desenvolvimento.***
 
