@@ -1,7 +1,7 @@
 Vaga de desenvolvedor na Comunidade de Práticas
 ===================
 
-O projeto Comunidade de Práticas está procurando um desenvolvedor Javascript para trabalhar com projetos em node.js e ember.js
+O projeto Comunidade de Práticas está procurando um desenvolvedor Javascript para trabalhar com projetos em node.js e ember.js e alguns mecanismos em javascript / jQuery para nosso sistema atual.
 
 A Comunidade de Práticas é um projeto que visa criar um ambiente de interação, aprendizagem e comunicação para os profissionais do SUS
 
