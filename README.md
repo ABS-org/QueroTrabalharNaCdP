@@ -1,13 +1,13 @@
 Vaga de desenvolvedor na Comunidade de Práticas
 ===================
 
-O projeto Comunidade de Práticas está procurando novos programadores Drupal ou Javascript
+O projeto Comunidade de Práticas está procurando novos programadores Drupal e/ou Javascript
 
 A Comunidade de Práticas é um projeto que visa criar um ambiente de interação, aprendizagem e comunicação para os profissionais do SUS
 
 Os projetos são de código livre.
 
-Hoje a Comunidade de Práticas está com o Drupal 7 e precisamos manter um suporte ao sistema atual e de alguns recursos como um messenger e no futuro alterar a estrutura para um aplicativo usando node.js e ember.js
+Hoje a Comunidade de Práticas está com o Drupal 7 e precisamos manter um suporte ao sistema atual e de alguns recursos como um messenger, e, no futuro, alterar a estrutura para um aplicativo usando node.js e ember.js
 
 ##Requisitos 
 
