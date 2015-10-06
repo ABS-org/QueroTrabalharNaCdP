@@ -1,47 +1,68 @@
 Vaga de desenvolvedor na Comunidade de Práticas
 ===================
 
-O projeto Comunidade de Práticas está procurando novos programadores Drupal e/ou Javascript
+O projeto Comunidade de Práticas está procurando novos desenvolvedores Front-end e Back-end
 
 A Comunidade de Práticas é um projeto que visa criar um ambiente de interação, aprendizagem e comunicação para os profissionais do SUS
 
-Os projetos são de código livre.
-
-Hoje a Comunidade de Práticas está com o Drupal 7 e precisamos manter um suporte ao sistema atual e de alguns recursos como um messenger, e, no futuro, alterar a estrutura para um aplicativo usando node.js e ember.js
-
 ##Requisitos 
 
-###Para programador Javascript
-- Conhecer Javascript e node.js
-- Usar Git e ter conta no Github
-- **Gostar de trabalhar com Javascript**
-- Ser proativo.
-- É necessário ter nível superior, mesmo que o título não seja na área das ciências da computação.
-  
+###Desenvolvedor Front-end
+####Responsabilidades
+- Desenvolvimento de novas features para a interface de usuário
+- Desenvolvimento de código reutilizável e eficiente
+- Garantir a aplicabilidade técnica dos designs de UI/UX
+- Otimizar aplicação para maior velocidade e escalabilidade
+- Garantir a validação de todos os inputs de usuários antes de enviar ao back-end
 
-###Para programador Drupal
-- Conhecer PHP
-- Usar Git e ter conta no Github
-- Ter exeriência com Drupal 7
-- Conhecer os modulos features, views, OG e services
-- Ser proativo.
-- É necessário ter nível superior, mesmo que não seja na área de ciência da computação.
-  
+####Qualificações
+- Conhecimento avançado em JavaScript, e bibliotecas como jQuery 
+- Conhecimento avançado de markup web, incluindo HTML5, CSS3
+- Entendimento básico de pré-processadores de CSS, como SASS e LESS
+- Conhecimento do framework Ember.js 
+- Entendimento básico de WebSockets
+- Bom entendimento de tratamento de requests assíncronas, atualizações parciais de página e AJAX
+- Bom entendimento dos problemas de compatibilidade cross-browser e soluções para contorná-los
+- Entendimento dos princípios de SEO para garantir que a aplicação se adeque a estes 
+- Conhecimento do framework de UI Boostrap
+- Conhecimento de ferramentas de automação de tarefas (Grunt, Gulp)
+- Conhecimento avançado em Git
+- Conhecimento da arquitetura RESTful para integração de web services  
 
-##Diferenciais:
-- Ter colaborado em projetos de código livre
-- Disponibilidade para viajar para reuniões. Isso deve ocorrer poucas vezes ao ano, será custeado pelo projeto e será marcado com antecedência
+###Desenvolvedor Back-end
+####Responsabilidades
+- Integração dos elementos de tela criados pelos desenvolvedores front-end com lógica do servidor
+- Desenvolvimento de código reutilizável e eficiente
+- Desenho e implementação de aplicações performáticas, com alta disponibilidade e baixa latência
+- Implementação de estratégias de proteção de dados
+- Integração com soluções de armazenamento de dados
+
+####Qualificações
+- Conhecimento avançado em JavaScript
+- Conhecimento de Node.js e dos principais frameworks web
+- Entendimento da natureza da programação assíncrona e das práticas para se trabalhar com esta 
+- Conhecimento de template engines de servidor, especialmente Ejs e Handlebars
+- Entendimento de pré-processadores de CSS, especialmente SASS
+- Conhecimento básico das tecnologias de front-end, como HTML5 e CSS3
+- Conhecimento da arquitetura RESTful na construção de web services
+- Conhecimento de esquemas de autenticação e autorização de usuários 
+- Integração de dados em um único sistema
+- Entendimento de princípios básicos para o desenvolvimento de uma aplicação escalável
+- Criação de modelos de banco de dados que representem e suportem a aplicação
+- Implementação de plataformas de automação de testes e testes unitários
+- Conhecimento avançado em Git  
+
+##Considerações:
+- Ambas as vagas são para trabalhar remoto, entretanto, é necessário disponibilidade para viajar para reuniões eventuais duranto o ano que serão custeadas pelo projeto e serão marcadas com antecedência pela coordenação
 
 ##E como posso concorrer à vaga?
 
 - Faça um fork desse repositório;
 - No seu fork, adicione o seu currículo com o formato [markdown](http://en.wikipedia.org/wiki/Markdown) ( exemplo: eu.md );
-- Faça um pull request.
+- Faça um PR (Pull Request).
 
-- Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Encaminhe o seu CV especificando a vaga para alberto@atencaobasica.org.br 
-- Sinta-se a vontade para incluir QUALQUER informação que seja relevante para que nossa equipe @ conheça melhor (twitter, facebook, sites online, outros trabalhos, etc).
-
-***Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo, logo, se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar por email. ( alberto@atencaobasica.org.br ) ***
+- Caso você tenha alguma restrição em relação a enviar o PR publicamente, não tem problema! Encaminhe o seu CV especificando a vaga para saviogl@gmail.com
+- Sinta-se à vontade para incluir QUALQUER informação que seja relevante para que nossa equipe conheça melhor o seu perfil (twitter, facebook, sites online, outros trabalhos, etc).
 
 ***Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento simplesmente porque dá dinheiro e realmente não está nessa por amor à profissão, por favor, procure outra organização e boa sorte! É essencial que os nossos candidatos sejam apaixonados por desenvolvimento.***
 
